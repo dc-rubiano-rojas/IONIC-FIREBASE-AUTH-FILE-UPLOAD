@@ -1,0 +1,7 @@
+{
+  "name": "IONIC-FIREBASE-AUTH-FILE-UPLOAD",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
